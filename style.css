@@ -4,24 +4,24 @@ body {
   color: #333;
   font-family: "Lato", sans-serif;
 }
-.aaa {
+.preview {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.aaa 
+.preview 
 img {
   width: 100%;
 }
-.aaa 
-.more-inf {
+.preview 
+.preview-link {
   font-family: fantasy, cursive;
 }
 
 @media (max-width: 768px) {
 
-  .aaa {
+  .preview {
     text-align: center;
   }
   
